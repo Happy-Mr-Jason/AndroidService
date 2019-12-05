@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':vibrateex'
 rootProject.name='ServiceEx'
